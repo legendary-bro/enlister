@@ -12,6 +12,6 @@ Sure.
 Tutorial here.
 # Socials
 ### Discord Server
-discord.gg/oasdkosap
+[discord.gg/oasdkosap](https://discord.gg/oasdkosap "Discord")
 ### Twitter
-twitter.com/sdjiaidj
+[twitter.com/piebotdiscord](https://twitter.com/piebotdiscord "Twitter Support")
