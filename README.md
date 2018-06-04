@@ -30,9 +30,9 @@ Currently just me. Pie#9196. After the kind of success of PieBot and death as we
 ### Twitter
 [twitter.com/piebotdiscord](https://twitter.com/piebotdiscord "Tweet at me!")
 # Development Milestones
-Version # | Codename | Release Date
-:---: | :---: | :---:
-1 | `undefined` | TBA
-### V1 `undefined`
+Version # | Codename | Release Date | Dev Description
+:---: | :---: | :---: | :---:
+1 | `undefined` | TBA | The first, stable, non-modulated code which has basic functions.
+### `V1 | undefined`
 Info about V1.
 > Help goes here.
