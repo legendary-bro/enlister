@@ -1,7 +1,7 @@
 # Enlister Bot
 A discord bot ready to protect your server from raiders, spammers and trollers!
 ### How do I use it?
-Bla bla
+Info
 ### Why do I need this stupid bot?
 Well it's just a bot to protect your discord server. It happens to me alot and Dyno, or any other moderation bot was a pain to setup up and I didn't have time to, that's why I made Enlister bot. I am attempting to make this bot the most easiest/simple, effective and always online bot. If you want to help me with this project, dm me on discord, Pie#9196. Basically I'll be making a electron application, and a express.js website. I already know electron so express should be also easy.
 ### I still don't want the bot, can this bot do anything else useful at all?
