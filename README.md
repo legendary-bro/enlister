@@ -1,6 +1,6 @@
 # Enlister Bot
 A discord bot ready to protect your server from raiders, spammers and trollers!
-<img src="branding/img/invite.png">
+<a href="#"><img style="width:150px;" src="branding/img/invite.png"></a>
 ### How do I use it?
 Info
 # Selfhosting the bot
