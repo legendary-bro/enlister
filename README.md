@@ -1,4 +1,5 @@
-<img width="300px" src="branding/svg/enlister_fill.svg">
+<img width="200px" src="branding/svg/enlister_fill.svg">
+
 # Enlister Bot
 A discord bot ready to protect your server from raiders, spammers and trollers!
 
