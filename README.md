@@ -5,7 +5,7 @@ A discord bot ready to protect your server from raiders, spammers and trollers!
 
 ### How do I use it?
 Info
-# Branding Guidelines
+### Branding Guidelines
 [Click Here!](https://github.com/PieBotDevs/enlister/blob/master/branding/README.md "Click here for branding guidelines!")
 # Need help with the bot? Contact me!
 ### Email
