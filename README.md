@@ -14,6 +14,7 @@ Info
 [discord.gg/oasdkosap](https://discord.gg/oasdkosap "Join the Discord Server")
 ### Twitter
 [twitter.com/piebotdiscord](https://twitter.com/piebotdiscord "Tweet at me!")
+# Some other Stuff
 ### Why do I need this stupid bot?
 Well it's just a bot to protect your discord server. Raiders come on my servers alot and Dyno, or any other moderation bot was a pain to setup and I didn't have time to, that's why I made Enlister bot. I am attempting to make this bot the most easiest/simple, effective and always online bot. If you want to help me with this project, dm me on discord, Pie#9196. Basically I'll be making a electron application, and a express.js website. I already know electron so express should be also easy.
 ### I still don't want the bot, can this bot do anything else useful at all?
