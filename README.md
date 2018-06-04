@@ -15,11 +15,13 @@ Sure.
 Soon™.
 ### Whomst made this bot again?
 Currently just me. Pie#9196. After the kind of success of PieBot and death as well, I finally decided to put my fingers and sweat into a different bot which will help servers with moderation, a lightweight, simple, and easy to use bot. That is my goal with this bot. I work everyday after school to improve on this bot. Be aware that this is still a very early bot and is hosted locally on my own PC. I'll be moving to servers later on hopefully but for now, keeping discord servers secure is my main goal (oh but pie there's already great bots) they don't do the things I want them to do though, either they are focused morely on music and so on, for me, moderation comes first. 
-# Socials
+# Need help with the bot? Contact me!
+### Email
+[piebotdiscord@gmail.com](mailto://piebotdiscord@gmail.com "Email me!")
 ### Discord Server
-[discord.gg/oasdkosap](https://discord.gg/oasdkosap "Discord")
+[discord.gg/oasdkosap](https://discord.gg/oasdkosap "Join the Discord Server")
 ### Twitter
-[twitter.com/piebotdiscord](https://twitter.com/piebotdiscord "Twitter Support")
+[twitter.com/piebotdiscord](https://twitter.com/piebotdiscord "Tweet at me!")
 # Development Milestones
 Version # | Codename | Release Date
 :---: | :---: | :---:
