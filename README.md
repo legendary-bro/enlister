@@ -32,7 +32,7 @@ Currently just me. Pie#9196. After the kind of success of PieBot and death as we
 # Development Milestones
 Version # | Codename | Release Date | Dev Description
 :---: | :---: | :---: | :---:
-1 | `undefined` | TBA | The first, stable, non-modulated code which has basic functions.
+`1` | `undefined` | `TBA` | `The first, stable, non-modulated code which has basic functions.`
 ### `V1 | undefined`
 Info about V1.
 > Help goes here.
