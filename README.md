@@ -9,11 +9,11 @@ Info
 [Click Here!](https://github.com/PieBotDevs/enlister/blob/master/branding/README.md "Click here for branding guidelines!")
 # Need help with the bot? Contact me!
 ### Email
-[piebotdiscord@gmail.com](mailto:piebotdiscord@gmail.com "Email me!")
+[enlisterdiscordbot@gmail.com](mailto:enlisterdiscordbot@gmail.com "Email me!")
 ### Discord Server
-[discord.gg/oasdkosap](https://discord.gg/oasdkosap "Join the Discord Server")
+[discord.gg/632tuBZ](https://discord.gg/632tuBZ "Join the Discord Server")
 ### Twitter
-[twitter.com/piebotdiscord](https://twitter.com/piebotdiscord "Tweet at me!")
+[twitter.com/EnlisterBot](https://twitter.com/EnlisterBot "Tweet at me!")
 # Some other Stuff
 ### Why do I need this stupid bot?
 Well it's just a bot to protect your discord server. Raiders come on my servers alot and Dyno, or any other moderation bot was a pain to setup and I didn't have time to, that's why I made Enlister bot. I am attempting to make this bot the most easiest/simple, effective and always online bot. If you want to help me with this project, dm me on discord, Pie#9196. Basically I'll be making a electron application, and a express.js website. I already know electron so express should be also easy.
