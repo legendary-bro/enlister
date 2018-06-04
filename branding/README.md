@@ -7,4 +7,4 @@ If you do modify it, it must match in the guidelines below.
 <img width="200px" src="svg/guidelines.svg">
 
 ### Colors
-`#138FF4 to #A80B4F`
+<img src="img/blue.png"><img src="img/redish_pink.png"><img src="img/gradient.png">
