@@ -7,4 +7,4 @@ If you do modify it, it must match in the guidelines below.
 <img width="200px" src="svg/guidelines.svg">
 
 ### Colors
-<img width="200px" src="img/blue.png"><img width="200px" src="img/redish_pink.png"><img width="200px" src="img/gradient.png">
+<img width="200px" src="img/blue.png"><img width="200px" src="img/redish_pink.png"><img width="200px" src="img/gradient.png"><ing width="200px" src="img/grey.png">
