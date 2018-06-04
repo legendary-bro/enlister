@@ -1,7 +1,7 @@
 <p align="center"><img width="200px" src="svg/guidelines.svg"></p>
 
 <h1 align="center">Branding Guidelines</h1>
-<p align="center">The E must be not remade, modified or transformed to something which doesn't look like the original unless given permission.
+<p align="center">The E must be not remade or modified to something which doesn't look like the original assets unless given permission.
 If you do modify it, it must match in the guidelines below.</p>
 
 <h2 align="center">Colors</h2>
