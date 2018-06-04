@@ -7,7 +7,7 @@ If you do modify it, it must match in the guidelines below.
 <img width="200px" src="svg/guidelines.svg">
 
 <h3 align="center">Colors</h3>
-<span align="center"><img width="200px" src="img/blue.png"><img width="200px" src="img/redish_pink.png"><img width="200px" src="img/gradient.png"><img width="200px" src="img/grey.png"></span>
+<p align="center"><img width="200px" src="img/blue.png"><img width="200px" src="img/redish_pink.png"><img width="200px" src="img/gradient.png"><img width="200px" src="img/grey.png"></p>
 
 ### "E"
 <img width="200px" src="svg/enlister_'E'_dark.svg"><img width="200px" src="svg/'E'_grey.svg"><img width="200px" src="svg/enlister_fill.svg"><img width="200px" src="svg/enlister_'E'_fill.svg">
