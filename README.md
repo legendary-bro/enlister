@@ -18,5 +18,5 @@ Sure.
 [twitter.com/piebotdiscord](https://twitter.com/piebotdiscord "Twitter Support")
 # Goals
 Version # | Codename | Release Date
---- | --- | ---
+:---: | :---: | :---:
 1 | `undefined` | TBA
