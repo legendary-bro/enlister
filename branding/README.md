@@ -9,3 +9,7 @@
 
 <h2 align="center">"E"</h2>
 <p align="center"><img width="200px" src="svg/enlister_'E'_dark.svg"><img width="200px" src="svg/'E'_grey.svg"><img width="200px" src="svg/enlister_fill.svg"><img width="200px" src="svg/enlister_'E'_fill.svg"></p>
+
+<h1 align="center">Logos</h1>
+<a align="center" href="https://github.com/PieBotDevs/enlister/tree/master/branding/img"><h2 align="center">PNG</h2></a>
+<a align="center" href="https://github.com/PieBotDevs/enlister/tree/master/branding/svg"><h2 align="center">SVG</h2></a>
