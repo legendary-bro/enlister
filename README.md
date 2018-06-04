@@ -16,3 +16,7 @@ Sure.
 [discord.gg/oasdkosap](https://discord.gg/oasdkosap "Discord")
 ### Twitter
 [twitter.com/piebotdiscord](https://twitter.com/piebotdiscord "Twitter Support")
+# Goals
+Version # | Codename | Release Date
+--- | --- | ---
+1 | `undefined` | TBA
