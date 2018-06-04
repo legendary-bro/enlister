@@ -1,3 +1,7 @@
 <img width="200px" src="svg/enlister_fill.svg">
 
 # Branding Guidelines
+The E must be not remade, modified or transformed to something which doesn't look like the original unless given permission.
+If you do modify it, it must match in the guidelines below.
+
+<img width="200px" src="svg/guidelines.svg">
