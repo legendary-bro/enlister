@@ -1,20 +1,41 @@
-<img width="200px" src="branding/svg/enlister_fill.svg">
+<p align="center"><img width="200px" src="branding/svg/enlister_fill.svg"></p>
 
-# Enlister Bot
-A discord bot ready to protect your server from raiders, spammers and trollers!
+<h1 align="center">Enlister</h1>
+<p align="center"><img src="https://img.shields.io/github/issues/PieBotDevs/enlister.svg"> <img src="https://img.shields.io/github/forks/PieBotDevs/enlister.svg"></p>
 
-### How do I use it?
-Info
-### Branding Guidelines
-[Click Here!](https://github.com/PieBotDevs/enlister/blob/master/branding/README.md "Click here for branding guidelines!")
-# Need help with the bot? Contact me!
-### Email
-[enlisterdiscordbot@gmail.com](mailto:enlisterdiscordbot@gmail.com "Email me!")
-### Discord Server
-[discord.gg/632tuBZ](https://discord.gg/632tuBZ "Join the Discord Server")
-### Twitter
-[twitter.com/EnlisterBot](https://twitter.com/EnlisterBot "Tweet at me!")
-# Some other Stuff
+<p align="center">A discord bot ready to protect your server from raiders, spammers and trollers!</p>
+
+<h2 align="center">Branding</h2>
+<p align="center">Please <a href="https://github.com/PieBotDevs/enlister/blob/master/branding/README.md" title="Click here for branding guidelines!">click here</a> for branding guidelines.</p>
+
+<h2 align="center">Need help? Contact me!</h2>
+<h3 align="center">Email</h3>
+<p align="center"><a href="mailto:enlisterdiscordbot@gmail.com" title="Email me!">enlisterdiscordbot@gmail.com</a>
+<h3 align="center">Discord</h3>
+<p align="center"><a href="https://discord.gg/632tuBZ" title="Join the Discord Server.">discord.gg/632tuBZ</a> or Pie#9196</p>
+<h3 align="center">Twitter</h3>
+<p align="center"><a href="https://twitter.com/EnlisterBot" title="Tweet at me!">twitter.com/EnlisterBot</a></p>
+<h2 align="center">Development Milestones<h2>
+<table align="center">
+  <tr align="center">
+    <th align="center">Version #</th>
+    <th align="center">Codename</th>
+    <th align="center">Release Date</th>
+    <th align="center">Description</th>
+  </tr>
+  <tr align="center">
+    <td align="center"><code>1</code></td>
+    <td align="center"><code>TBA</code></td>
+    <td align="center"><code>TBA</code></td>
+    <td align="center"><code>The first, stable, non-modulated code which has basic functions.</code></td>
+  </tr>
+</table>
+
+<h2 align="center"><code>V1 | undefined</code></h2>
+<p align="center">Info about V1.</p>
+<blockquote align="center">This version is still TBA.</blockquote>
+
+# Some other stuff
 ### Why do I need this stupid bot?
 Well it's just a bot to protect your discord server. Raiders come on my servers alot and Dyno, or any other moderation bot was a pain to setup and I didn't have time to, that's why I made Enlister bot. I am attempting to make this bot the most easiest/simple, effective and always online bot. If you want to help me with this project, dm me on discord, Pie#9196. Basically I'll be making a electron application, and a express.js website. I already know electron so express should be also easy.
 ### I still don't want the bot, can this bot do anything else useful at all?
@@ -28,10 +49,3 @@ Currently just me. Pie#9196. After the kind of success of PieBot and death as we
 # Selfhosting the bot
 ### Introduction
 1. Breathe air.
-# Development Milestones
-Version # | Codename | Release Date | Dev Description
-:---: | :---: | :---: | :---:
-`1` | `undefined` | `TBA` | `The first, stable, non-modulated code which has basic functions.`
-### `V1 | undefined`
-Info about V1.
-> Help goes here.
