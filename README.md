@@ -40,6 +40,8 @@
 <h2 align="center"><code>V1 | undefined</code></h2>
 <blockquote align="center">This version is still TBA.</blockquote>
 
+<hr>
+<p align="center">Bot made by <a color="#ffb200" href="#">Pie#9196</a>.</p>
 <!-- # Some other stuff
 ### Why do I need this stupid bot?
 Well it's just a bot to protect your discord server. Raiders come on my servers alot and Dyno, or any other moderation bot was a pain to setup and I didn't have time to, that's why I made Enlister bot. I am attempting to make this bot the most easiest/simple, effective and always online bot. If you want to help me with this project, dm me on discord, Pie#9196. Basically I'll be making a electron application, and a express.js website. I already know electron so express should be also easy.
