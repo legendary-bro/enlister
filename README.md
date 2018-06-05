@@ -1,4 +1,4 @@
-<p align="center"><img width="200px" src="branding/svg/enlister_fill.png"></p>
+<p align="center"><img width="200px" src="branding/img/enlister_fill.png"></p>
 
 <h1 align="center">Enlister</h1>
 <p align="center"><a href="https://github.com/PieBotDevs/enlister/issues" title="Issues need a tissue"><img src="https://img.shields.io/github/issues/PieBotDevs/enlister.svg"></a> <a href="#" title="Forks"><img src="https://img.shields.io/github/forks/PieBotDevs/enlister.svg"></a> <a href="#" title="Total number of stars"><img src="https://img.shields.io/github/stars/PieBotDevs/enlister.svg"></a> <a href="#" title="Number of watchers"><img src="https://img.shields.io/github/watchers/PieBotDevs/enlister.svg"></a> <a href="https://github.com/PieBotDevs/enlister/blob/master/LICENSE" title="MIT License"><img src="https://img.shields.io/github/license/PieBotDevs/enlister.svg"></a> <a href="" title="Breathe air everyday"><img src="https://img.shields.io/badge/Air-Clean-green.svg"></a></p>
