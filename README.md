@@ -15,7 +15,7 @@
 <p align="center"><a href="https://discord.gg/632tuBZ" title="Join the Discord Server.">discord.gg/632tuBZ</a> or Pie#9196</p>
 <h3 align="center">Twitter</h3>
 <p align="center"><a href="https://twitter.com/EnlisterBot" title="Tweet at me!">twitter.com/EnlisterBot</a></p>
-<h2 align="center">Development Milestones<h2>
+<h2 align="center">Development Milestones</h2>
 <table align="center">
   <tr align="center">
     <th align="center">Version #</th>
