@@ -12,3 +12,6 @@
 
 <h1 align="center">Formats</h1>
 <p align="center"><a align="center" href="https://github.com/PieBotDevs/enlister/tree/master/branding/img">PNG</a> | <a align="center" href="https://github.com/PieBotDevs/enlister/tree/master/branding/svg">SVG</a> | <a align="center" href="https://github.com/PieBotDevs/enlister/tree/master/branding/gvdesign">GVDESIGN (Gravit)</a></p>
+
+<h1 align="center">Examples of the no-go zone with the brand.</h1>
+<p align="center"><img width="300px" src="png/bad.png"></p>
