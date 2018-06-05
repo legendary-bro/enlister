@@ -1,7 +1,7 @@
 <p align="center"><img width="200px" src="branding/svg/enlister_fill.svg"></p>
 
 <h1 align="center">Enlister</h1>
-<p align="center"><img src="https://img.shields.io/github/issues/PieBotDevs/enlister.svg"> <img src="https://img.shields.io/github/forks/PieBotDevs/enlister.svg"></p>
+<p align="center"><img src="https://img.shields.io/github/issues/PieBotDevs/enlister.svg"> <img src="https://img.shields.io/github/forks/PieBotDevs/enlister.svg"> <img src="https://img.shields.io/github/stars/PieBotDevs/enlister.svg"> <img src="https://img.shields.io/github/license/PieBotDevs/enlister.svg"> <img src="https://img.shields.io/badge/Air-Clean-green.svg"></p>
 
 <p align="center">A discord bot ready to protect your server from raiders, spammers and trollers!<br>Be aware that this bot is very early and progress will be made further on.<br>You are allowed to commit to this project once the source code is up in the<a href="https://github.com/PieBotDevs/enlister/tree/master/code" title="the code folder">code</a> folder.</p>
 
