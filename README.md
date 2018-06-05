@@ -6,7 +6,7 @@
 <p align="center">A discord bot ready to protect your server from raiders, spammers and trollers!<br>Be aware that this bot is very early and progress will be made further on.<br>You are allowed to commit to this project once the source code is up in the<a href="https://github.com/PieBotDevs/enlister/tree/master/code" title="the code folder">code</a> folder.</p>
 
 <h2 align="center">Features</h2>
-<ul display="table" margin="0 auto">
+<ul>
   <li>Nothing yet lul</li>
 </ul>
 
