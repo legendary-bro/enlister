@@ -3,7 +3,12 @@
 <h1 align="center">Enlister</h1>
 <p align="center"><img src="https://img.shields.io/github/issues/PieBotDevs/enlister.svg"> <img src="https://img.shields.io/github/forks/PieBotDevs/enlister.svg"></p>
 
-<p align="center">A discord bot ready to protect your server from raiders, spammers and trollers!<br>Be aware that this bot is very early and progress will be made further on.<br>You are allowed to commit to this project once the source code is up in <a href="https://github.com/PieBotDevs/enlister/tree/master/code" title="the code folder">the code folder</a></p>
+<p align="center">A discord bot ready to protect your server from raiders, spammers and trollers!<br>Be aware that this bot is very early and progress will be made further on.<br>You are allowed to commit to this project once the source code is up in the<a href="https://github.com/PieBotDevs/enlister/tree/master/code" title="the code folder">code</a> folder.</p>
+
+<h2 align="center">Features</h2>
+<ul>
+  <li>Nothing yet lul</li>
+</ul>
 
 <h2 align="center">Branding</h2>
 <p align="center">Please <a href="https://github.com/PieBotDevs/enlister/blob/master/branding/README.md" title="Click here for branding guidelines!">click here</a> for branding guidelines.</p>
@@ -15,6 +20,7 @@
 <p align="center"><a href="https://discord.gg/632tuBZ" title="Join the Discord Server.">discord.gg/632tuBZ</a> or Pie#9196</p>
 <h3 align="center">Twitter</h3>
 <p align="center"><a href="https://twitter.com/EnlisterBot" title="Tweet at me!">twitter.com/EnlisterBot</a></p>
+
 <h2 align="center">Development Milestones</h2>
 <table align="center">
   <tr align="center">
