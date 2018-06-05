@@ -11,4 +11,4 @@
 <p align="center"><img width="200px" src="svg/enlister_'E'_dark.svg"><img width="200px" src="svg/'E'_grey.svg"><img width="200px" src="svg/enlister_fill.svg"><img width="200px" src="svg/enlister_'E'_fill.svg"></p>
 
 <h1 align="center">Logos</h1>
-<a align="center" href="https://github.com/PieBotDevs/enlister/tree/master/branding/img"><p align="center">PNG  </p></a><a align="center" href="https://github.com/PieBotDevs/enlister/tree/master/branding/svg"><p align="center">SVG  </p></a><a align="center" href="https://github.com/PieBotDevs/enlister/tree/master/branding/gvdesign"><p align="center">GVDESIGN (Gravit)</p></a>
+<p align="center"><a align="center" href="https://github.com/PieBotDevs/enlister/tree/master/branding/img">PNG</a>  <a align="center" href="https://github.com/PieBotDevs/enlister/tree/master/branding/svg">SVG</a>  <a align="center" href="https://github.com/PieBotDevs/enlister/tree/master/branding/gvdesign">GVDESIGN (Gravit)</a></p>
