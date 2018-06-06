@@ -31,15 +31,16 @@
   </tr>
   <tr align="center">
     <td align="center"><code>1</code></td>
-    <td align="center"><code>TBA</code></td>
-    <td align="center"><code>TBA</code></td>
+    <td align="center"><code>Starter</code></td>
+    <td align="center"><code>1st August, 2018</code></td>
     <td align="center"><code>The first, stable, non-modulated code which has basic functions.</code></td>
   </tr>
 </table>
 </p>
 
-<h2 align="center"><code>V1 | undefined</code></h2>
-<blockquote align="center">This version is still TBA.</blockquote>
+<h2 align="center"><code>V1 | Starter</code></h2>
+<p align="center">hmm</p>
+<blockquote align="center">Wew</blockquote>
 
 <hr>
 <p align="center">Project made by <a href="#">Pie#9196</a>.</p>
