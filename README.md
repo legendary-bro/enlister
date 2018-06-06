@@ -39,11 +39,11 @@
 </p>
 
 <h2 align="center"><code>V1 | Starter</code></h2>
-<p align="center">hmm</p>
-<blockquote align="center">Wew</blockquote>
+<blockquote align="center">Info TBA</blockquote>
 
 <hr>
 <p align="center">Project made by <a href="#">Pie#9196</a>.</p>
+<!-- <p align="center">This version will include a early dashboard, electron application and the bot itself. We will also have a setup guide for selfhosting and a configure setup as the first thing when invited.</p> -->
 <!-- # Some other stuff
 ### Why do I need this stupid bot?
 Well it's just a bot to protect your discord server. Raiders come on my servers alot and Dyno, or any other moderation bot was a pain to setup and I didn't have time to, that's why I made Enlister bot. I am attempting to make this bot the most easiest/simple, effective and always online bot. If you want to help me with this project, dm me on discord, Pie#9196. Basically I'll be making a electron application, and a express.js website. I already know electron so express should be also easy.
