@@ -6,7 +6,7 @@
 
 <p align="center">A discord bot ready to protect your server from raiders, spammers and trollers!<br>The bot is still in Development, and will be closed source until the 1st of August 2018 which we will then drop V1.<br>You are allowed to commit to this project once the source code is up.</p>
 
-<blockquote align="center">I am sorry for hyping you guys up a bit early but it helps me remember about the project and also helps me store branding assets.<br>Dashboard reveal coming July 15th :3 and maybe a early invite link on the same day as well hmmmmmmmmmm.</blockquote>
+<blockquote align="center">I am sorry for hyping you guys up a bit early but this repo helps me remember about the project and also helps me store branding assets.<br>Dashboard reveal coming July 15th :3 and maybe a early invite link on the same day as well hmmmmmmmmmm.</blockquote>
 
 <!-- <h2 align="center">Features</h2>
 <p align="center">Nothing</p> -->
