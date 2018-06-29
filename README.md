@@ -6,10 +6,13 @@
 
 <p align="center">A discord bot ready to protect your server from raiders, spammers and trollers!<br>The bot is still in Development, and will be closed source until the 1st of August 2018 which we will then drop V1.<br>You are allowed to commit to this project once the source code is up.</p>
 
-<blockquote align="center">I am sorry for hyping you guys up a bit early but this repo helps me remember about the project and also helps me store branding assets.<br>Dashboard reveal coming July 15th :3 and maybe a early invite link on the same day as well hmmmmmmmmmm.</blockquote>
+<blockquote align="center">Dashboard and Invite link coming July 15!</blockquote>
 
-<!-- <h2 align="center">Features</h2>
-<p align="center">Nothing</p> -->
+<h2 align="center">Bot Features</h2>
+<p align="center">• Dashboard</p>
+<p align="center">• Easy to use</p>
+<p align="center">• First Time Setup (For when you are inviting the bot to the server)</p>
+<p align="center">• + More</p>
 
 <h2 align="center">Branding</h2>
 <p align="center">Please <a href="https://github.com/PieBotDevs/enlister/blob/master/branding/README.md" title="Click here for branding guidelines!">click here</a> for branding guidelines.</p>
@@ -44,7 +47,7 @@
 <blockquote align="center">Info Coming July 15th, 2018.</blockquote>
 
 <hr>
-<p align="center">Project made by <a href="#" target=”_blank” color"#ffb200">Pie#9196</a>.</p>
+<p align="center">Project made by <a href="#" target=”_blank” color="#ffb200">Pie#9196</a>.</p>
 <!-- <p align="center">This version will include a early dashboard, electron application and the bot itself. We will also have a setup guide for selfhosting and a configure setup as the first thing when invited.</p> -->
 <!-- # Some other stuff
 ### Why do I need this stupid bot?
