@@ -47,7 +47,7 @@
 <blockquote align="center">Info Coming July 15th, 2018.</blockquote>
 
 <hr>
-<p align="center">Project made by <a href="#" target=”_blank” color="#ffb200">Pie#9196</a>.</p>
+<p align="center">Project made by <a href="#" target=”_blank” color="#ffb200">Pie#4727</a>.</p>
 <!-- <p align="center">This version will include a early dashboard, electron application and the bot itself. We will also have a setup guide for selfhosting and a configure setup as the first thing when invited.</p> -->
 <!-- # Some other stuff
 ### Why do I need this stupid bot?
