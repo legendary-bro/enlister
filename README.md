@@ -21,7 +21,7 @@
 <h3 align="center">Email</h3>
 <p align="center"><a href="mailto:enlisterdiscordbot@gmail.com" title="Email me!">enlisterdiscordbot@gmail.com</a>
 <h3 align="center">Discord</h3>
-<p align="center"><a href="https://discord.gg/632tuBZ" title="Join the Discord Server.">discord.gg/632tuBZ</a> or Pie#9196</p>
+<p align="center"><a href="https://discord.gg/632tuBZ" title="Join the Discord Server.">discord.gg/632tuBZ</a> or Pie#4727</p>
 <h3 align="center">Twitter</h3>
 <p align="center"><a href="https://twitter.com/EnlisterBot" title="Tweet at me!">twitter.com/EnlisterBot</a></p>
 
